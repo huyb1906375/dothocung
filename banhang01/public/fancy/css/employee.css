@@ -1,0 +1,12 @@
+﻿body {}
+#colleft{width:60%; float:left; margin-right:10px;}
+#colright{width:38%; float:left;}
+
+#col1{width:49%; float:left; margin-right:10px;}
+#col2{width:49%; float:left;}
+
+.lbl{width:25%; font-weight:bold; padding-left:10px;}
+.textbox{width:100%;}
+.drpbox {width:100%; font-size:13px;}
+.button {padding-right:10px}
+.textbox:hover{background-color:#b7e6f0;}

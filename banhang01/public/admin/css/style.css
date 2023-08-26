@@ -1,0 +1,152 @@
+span.maudo{
+	font-size: 1em;
+	color: red;
+}
+span.mauxanh{
+    font-size: 1em;
+    color: blue;
+}
+.error{
+  color: #e90000;
+  font-size: 0.85em;
+}
+.c-red
+{
+	color: Red;
+}
+.f-bold
+{
+	font-weight: bold;
+}
+.bold
+{
+	font-weight: bold;
+}
+.t-right
+{
+	text-align: right;
+}
+.t-left
+{
+	text-align: left;
+}
+.t-center
+{
+	text-align:center;
+}
+.text-right
+{
+	text-align: right;
+}
+.text-left
+{
+	text-align: left;
+}
+.text-center
+{
+	text-align:center;
+}
+.m-left10
+{
+	margin-left: 10px;
+}
+.m-right10
+{
+	margin-right: 10px;
+}
+.m-top10
+{
+	margin-top: 10px;
+}
+.m-bottom10
+{
+	margin-bottom: 10px;
+}
+.m-left5
+{
+	margin-left: 5px;
+}
+.m-right5
+{
+	margin-right: 5px;
+}
+.m-right8
+{
+	margin-right: 8px;
+}
+.m-top5
+{
+	margin-top: 5px;
+}
+.m-bottom5
+{
+	margin-bottom: 5px;
+}
+.w40
+{
+    width: 40px;
+}
+.w50
+{
+    width: 50px;
+}
+.w80
+{
+    width: 80px;
+}
+.w90
+{
+    width: 90px;
+}
+.w100
+{
+    width: 100px;
+}
+.w110
+{
+    width: 110px;
+}
+.w120
+{
+    width: 120px;
+}
+.w150
+{
+    width: 150px;
+}
+.w200
+{
+    width: 200px;
+}
+.min-width100
+{
+	min-width: 100px;
+}
+/*pagenum*/
+.pagenum {
+	/*background-color: #D2E9FF;*/
+	text-align: center;
+	font-size: 13px;
+}
+.pagenum a {
+	border: 1px solid #008080; 
+	font-family: Tahoma;
+	font-weight: bold; 
+	text-decoration: none;
+	font-size: 10px; 
+	color: #0093DD;
+	padding:2px;
+}
+.pagenum a:hover {
+	font-family: Tahoma;
+	font-weight: bold; 
+	text-decoration: underline;
+	font-size: 10px; 
+	color: #0093DD;
+}
+.pagenum a.current {
+	font-size: 10px; 
+	color: #FF0000;
+	text-decoration: underline;
+	Cursor: default;
+}

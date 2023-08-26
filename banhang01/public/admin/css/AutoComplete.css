@@ -1,0 +1,45 @@
+﻿.ui-menu
+{
+	max-height: 300px;
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+.ui-menu-item
+{
+	padding: 10px;
+	border-bottom: 1px solid #ddd;
+}
+.ui-menu-item:nth-child(n) {
+	background-color: #eff5f9;
+}
+.ui-menu-item:nth-child(2n) {
+	background-color: #fff;
+}
+.ui-menu-item:hover
+{
+	background: #3C8DBC;
+}
+.ui-button .ui-state-active:hover {
+	border: 1px solid #003eff;
+	background: #3C8DBC;
+	font-weight: normal;
+	color: #ffffff;
+}
+.ui-menu-item-image
+{
+	float: left;
+	position: relative;
+	max-height: 50px;
+	max-width: 50px;
+	margin-right: 10px;
+	border: 1px solid #ddd;
+	padding: 1px;
+}
+.ui-menu-item-text
+{
+	float: left;
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+	font-weight: bold;
+}
